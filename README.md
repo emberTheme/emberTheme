@@ -72,3 +72,19 @@
 | danger  | `#c15b58` | Error / Danger     |
 
 ![Semantic Colors](assets/Semantic%20Colors.png)
+
+---
+
+## Syntax Highlighting
+
+| Token            | Color     | Usage                |
+| ---------------- | --------- | -------------------- |
+| syntax-keyword   | `#a64b5f` | Keywords             |
+| syntax-string    | `#d27a4a` | Strings              |
+| syntax-function  | `#e6c1a8` | Functions            |
+| syntax-type      | `#c78b6b` | Types / Classes      |
+| syntax-constant  | `#5fa38f` | Constants            |
+| syntax-number    | `#c29a5f` | Numbers              |
+| syntax-comment   | `#6f5e57` | Comments             |
+
+![Syntax Highlighting](assets/Syntax%20Highlighting.png)
