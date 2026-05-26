@@ -1,0 +1,3 @@
+[submodule "ember-theme.nvim"]
+	path = ember-theme.nvim
+	url = git@github.com:emberTheme/ember-theme.nvim.git
