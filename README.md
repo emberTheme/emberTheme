@@ -40,3 +40,13 @@
 ![Primary Accent](assets/Primary%20Accent.png)
 
 ---
+
+## Warm Secondary Accents
+
+| Token       | Color     | Usage                  |
+| ----------- | --------- | ---------------------- |
+| ember       | `#d27a4a` | Highlights             |
+| amber-soft  | `#b86b43` | Warm Interactive State |
+| gold-muted  | `#c29a5f` | Numbers / Constants    |
+
+![Warm Secondary Accents](assets/Warm%20Secondary%20Accents.png)
