@@ -88,3 +88,14 @@
 | syntax-comment   | `#6f5e57` | Comments             |
 
 ![Syntax Highlighting](assets/Syntax%20Highlighting.png)
+
+---
+
+## Cursor and Selection
+
+| Token      | Color     | Usage              |
+| -----------| --------- | ------------------ |
+| selection  | `#4b2f35` | Text Selection     |
+| cursor     | `#f2d2ba` | Cursor             |
+
+![Cursor And Selection](assets/Cursor%20and%20Selection.png)
