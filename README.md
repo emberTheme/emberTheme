@@ -27,3 +27,16 @@
 ![Texts](assets/Texts.png)
 
 ---
+
+## Primary Accent — Dry Wine
+
+| Token          | Color     | Usage               |
+| -------------- | --------- | ------------------- |
+| accent-primary | `#a64b5f` | Main Accent         |
+| accent-hover   | `#bb5d72` | Hover State         |
+| accent-active  | `#8d3e50` | Active / Pressed    |
+| accent-soft    | `#4b2a31` | Soft Backgrounds    |
+
+![Primary Accent](assets/Primary%20Accent.png)
+
+---
