@@ -62,3 +62,13 @@
 | blue-steel  | `#58718a` | Technical Elements  |
 
 ![Cold Contrast Accents](assets/Cold%20Contrast%20Accents.png)
+
+## Semantic Colors
+
+| Token   | Color     | Usage              |
+| ------- | --------- | ------------------ |
+| success | `#6caa7a` | Success States     |
+| warning | `#d39a54` | Warning States     |
+| danger  | `#c15b58` | Error / Danger     |
+
+![Semantic Colors](assets/Semantic%20Colors.png)
