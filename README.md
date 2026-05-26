@@ -50,3 +50,15 @@
 | gold-muted  | `#c29a5f` | Numbers / Constants    |
 
 ![Warm Secondary Accents](assets/Warm%20Secondary%20Accents.png)
+
+---
+
+## Cold Contrast Accents
+
+| Token       | Color     | Usage               |
+| ----------- | --------- | ------------------- |
+| teal        | `#5fa38f` | Constants           |
+| cyan-muted  | `#6f9caa` | Links / Info        |
+| blue-steel  | `#58718a` | Technical Elements  |
+
+![Cold Contrast Accents](assets/Cold%20Contrast%20Accents.png)
